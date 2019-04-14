@@ -88,4 +88,4 @@ filename h3.MD
 d)
 
 Kokeilin kirjoittamalla tekstiä ja tallensin muutoksen hkolme.MD tiedostoon. Suoritin komennon 
-git add . && git commit; git pull && git Add d) to hkolme.MD
+git add . && git commit; git pull && git Add d) to hkolme.MD 
